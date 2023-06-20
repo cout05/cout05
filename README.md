@@ -1,4 +1,4 @@
-<strong>Hello There</strong>
+<strong>Hello</strong>
 
 <!---
 cout05/cout05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
