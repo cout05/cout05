@@ -1,6 +1,6 @@
 # Hi, I'm Jerico Franco🙋‍♂️
 
-I like to learn more about Web development, my hobbies are reading manga/manhwa.
+I like to learn more about Web development, my hobbies are reading manga/manhwa, Welcome to my profile.
 
 
 <!---
