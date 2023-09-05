@@ -1,6 +1,6 @@
 # Hi, I'm Jerico Franco🙋‍♂️
 
-I like to learn more about Web development, my hobbies are reading manga/manhwa, and I also enjoy watching movies, but i always make time for coding. Im trying to be as consistent as possible.
+I like to learn more about Web development, my hobbies are reading manga/manhwa, and I also enjoy watching movies, but i always make time for coding. Im trying to be as consistent as possible. My goal is to contribute everyday.
 
 
 <!---
