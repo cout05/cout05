@@ -1,6 +1,6 @@
 # Hi, I'm Jerico Franco🙋‍♂️
 
-I am a BSIT student, I like to learn more about Web development, my hobbies are reading manga/manhwa, and I also enjoy watching movies. I am currently learning React.
+I am a BSIT student, I like to learn more about Web development, my hobbies are reading manga/manhwa, and I also enjoy watching movies. I am currently learning React. I am a very approachable person😊
 
 
 <!---
