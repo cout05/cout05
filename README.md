@@ -1,8 +1,8 @@
-# Hello, I'm [Jerico Franco] 👋
+# Hello, I'm Jerico Franco 👋
 
 I'm a passionate web developer with a focus on front-end technologies and user experience design.
 
-🌱 I'm currently learning [React].
+🌱 I'm currently learning React.<br/>
 💼 I'm open to job opportunities and collaborations.
 
 ## Skills
