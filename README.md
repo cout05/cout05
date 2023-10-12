@@ -1,9 +1,31 @@
-# Hi, I'm Jerico Franco🙋‍♂️
+# Hello, I'm [Jerico Franco] 👋
 
-I am a BSIT student, I like to learn more about Web development, my hobbies are reading manga/manhwa and drawing. -j
+I'm a passionate web developer with a focus on front-end technologies and user experience design.
 
+🌱 I'm currently learning [React].
+💼 I'm open to job opportunities and collaborations.
 
-<!---
-cout05/cout05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+
+- HTML, CSS, JavaScript
+- React, Tailwind css, Bootstrap
+- Responsive Web Design
+- Git and GitHub
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+1. [Project 1](https://cout05.github.io/url-shortener/) - Url shortener a project using Html, css, javascript and Api.
+
+## Contact Me
+
+📧 Email: ecofranco1@gmail.com
+🌐 Portfolio: [link to your portfolio](https://francojerico.netlify.app/)
+📱 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jerico-franco-37b75627b/)
+⬇️ Facebook: [Facebook Profile](https://www.facebook.com/jericofranco15/)
+
+Feel free to reach out if you'd like to connect or collaborate on web development projects!
+
+<!-- Feel free to add more sections as needed and customize the content to match your profile. -->
+
