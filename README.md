@@ -20,10 +20,10 @@ Here are some of the projects I've worked on:
 
 ## Contact Me
 
-📧 Email: ecofranco1@gmail.com<br/>
-🌐 Portfolio: [link to your portfolio](https://francojerico.netlify.app/)<br/>
-📱 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jerico-franco-37b75627b/)<br/>
-⬇️ Facebook: [Facebook Profile](https://www.facebook.com/jericofranco15/)
+📧 Email: ecofranco1@gmail.com <br/>
+🌐 Portfolio: [link to your portfolio](https://francojerico.netlify.app/) <br/>
+📱 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jerico-franco-37b75627b/) <br/>
+⬇️ Facebook: [Facebook Profile](https://www.facebook.com/jericofranco15/) <br/>
 
 Feel free to reach out if you'd like to connect or collaborate on web development projects!
 
