@@ -16,7 +16,7 @@ I'm a passionate web developer with a focus on front-end technologies and user e
 
 Here are some of the projects I've worked on:
 
-1. [Url Shortener](https://cout05.github.io/url-shortener/) - Url shortener a project using Html, css, javascript and Api.
+1. [Url Shortener](https://cout05.github.io/url-shortener/) - Url shortener a project built using Html, css, javascript and shrtcode Api.
 
 ## Contact Me
 
