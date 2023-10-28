@@ -1,11 +1,11 @@
 # Hello, I'm Jerico Franco 👋
 
-I'm a passionate web developer with a focus on front-end technologies and user experience design.
+I'm a BSIT student with a goal to be a Full-Stack Web Developer.
 
 🌱 I'm currently learning how to make Full Stack Websites.<br/>
 💼 I'm open to job opportunities and collaborations.
 
-## Skills
+## Tools I used
 
 - HTML, CSS, JavaScript
 - React, Tailwind css, Bootstrap
