@@ -7,7 +7,7 @@ I'm a BSIT student with a goal to be a Full-Stack Web Developer.
 
 ## Tools I used
 
-- HTML, CSS, JavaScript
+- HTML, CSS and JavaScript
 - React, Tailwind css, Bootstrap
 - Responsive Web Design
 - Git and GitHub
