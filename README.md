@@ -3,7 +3,7 @@
 I'm a BSIT student with a goal to be a Full-Stack Web Developer.
 
 🌱 I'm currently learning how to make Full Stack Websites.<br/>
-💼 I'm open to job opportunities and collaborations.
+💼 I'm open to job opportunities and collaborations
 
 ## Tools I used
 
