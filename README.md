@@ -17,7 +17,7 @@ I'm a BSIT student with a goal to be a Full-Stack Web Developer.
 Here are some of the projects I've worked on:
 
 1. [Url Shortener](https://cout05.github.io/url-shortener/) - Url shortener a project built using Html, css, javascript and shrtcode Api.
-2. [Apex-Adorn Ecommerce Store](https://cout05.github.io/apexadorn-ecommerce-website/) - ApexAdorn is a website I made using React.js and Tailwind CSS. It's all about simplifying the online shopping experience. With products sourced from the FakeStore API, ApexAdorn offers a user-friendly, one-stop shop for all your e-commerce needs.
+2. [Apex-Adorn Ecommerce Store](https://cout05.github.io/apexadorn-ecommerce-website/) - ApexAdorn is a website I made using React.js and Tailwind CSS.
  
 ## Contact Me
 
