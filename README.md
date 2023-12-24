@@ -9,6 +9,7 @@ I'm a BSIT student with a goal to be a Full-Stack Web Developer.
 
 - HTML, CSS and JavaScript
 - React, Tailwind Css, Bootstrap
+- Node js, MongoDb
 - Responsive Web Design
 - Git and GitHub
 
