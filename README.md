@@ -17,9 +17,8 @@ I'm a BSIT student with a goal to be a Full-Stack Web Developer.
 
 Here are some of the projects I've worked on:
 
-1. [Url Shortener](https://cout05.github.io/url-shortener/) - Url shortener a project built using Html, css, javascript and shrtcode Api.
-2. [Apex-Adorn Ecommerce Store](https://apexadorn.netlify.app) - ApexAdorn is a website I made using React.js and Tailwind CSS.
-3. [Todo App Mern Stack](https://todo-app-frontend-sigma-swart.vercel.app/) - My first fullstack app made using Mern Stack.
+1. [Apex-Adorn Ecommerce Store](https://apexadorn.netlify.app) - ApexAdorn is a website I made using React.js and Tailwind CSS.
+2. [Todo App Mern Stack](https://todo-app-frontend-sigma-swart.vercel.app/) - My first fullstack app made using Mern Stack.
  
 ## Contact Me
 
