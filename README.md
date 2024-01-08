@@ -1,4 +1,4 @@
-# Hello, I'm Jerico Franco 👋
+# Hello, I'm Jerico Franco. 👋
 
 I'm a BSIT student with a goal to be a Full-Stack Web Developer.
 
