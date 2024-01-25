@@ -1,6 +1,6 @@
 # Hello, I'm Jerico Franco. 👋
 
-I'm a BSIT student with a goal to be a Full-Stack Web Developer.
+I make websites, webapps, and other cool stuff, with the goal of landing an internship role as part of my academic program.
 
 🌱 I'm currently learning how to make Full Stack Websites.<br/>
 💼 I'm open to job opportunities and collaborations.
