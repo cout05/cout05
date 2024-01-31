@@ -17,9 +17,9 @@ I make websites, webapps, and other cool stuff, with the goal of landing an inte
 
 Here are some of the projects I've worked on:
 
-1. [Apex-Adorn Ecommerce Store](https://apexadorn.netlify.app) - ApexAdorn is a website I made using React.js and Tailwind CSS.
-2. [Todo App Mern Stack](https://todo-app-frontend-sigma-swart.vercel.app/) - My first fullstack app made using Mern Stack, it have a simple authentication where you can Sign up and Login.
-3. [My portfolio](https://francojerico.netlify.app/) - Created a website where i showcase my projects, using React js.
+1. [Apex-Adorn Ecommerce Store](https://github.com/cout05/apexadorn-ecommerce-website) - This is a website I made using React.js and Tailwind CSS and FakeStore Api for the products.
+2. [Todo App Mern Stack](https://github.com/cout05/todo-app) - My first fullstack app made using Mern Stack, it have a simple authentication where you can Sign up and Login.
+3. [Chirp - Where the Now Meets the Chirp ](https://github.com/cout05/chirp) - This is a simple website I made as a school project where you can post your thoughts that can be saved using `localStorage`. Inspired by Threads app.
  
 ## Contact Me
 
