@@ -8,7 +8,7 @@ I make websites, webapps, and other cool stuff, with the goal of landing an inte
 ## Tools I used
 
 - HTML, CSS and JavaScript
-- React, Tailwind Css, Bootstrap
+- React js, Tailwind Css, Bootstrap
 - Node js, MongoDb
 - Responsive Web Design
 - Git and GitHub
