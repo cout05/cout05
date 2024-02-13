@@ -11,12 +11,11 @@
 </div>
 
 ## Tools I used
-
-- HTML, CSS and JavaScript
-- React js, Tailwind Css, Bootstrap
-- Node js, MongoDb
-- Responsive Web Design
-- Git and GitHub
+<p align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,nodejs,mongodb,netlify,vercel,vite,git,github&perline=3">
+</a>
+</p>
 
 ## Projects
 
