@@ -1,4 +1,4 @@
-<h1 align="center" >[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=30&duration=3000&pause=1000&random=false&width=435&lines=Hello;I'm+Jerico)](https://git.io/typing-svg)</h1>
+<h1 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=30&duration=3000&pause=1000&random=false&width=435&lines=Hello;I'm+Jerico" alt="Typing SVG" /></a></h1>
 
 I make websites, webapps, and other cool stuff, with the goal of landing an internship role as part of my academic program.
 
