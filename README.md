@@ -13,7 +13,7 @@
 ## Tools I used
 <p align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,nodejs,mongodb,netlify,vercel,vite,git,github&perline=3">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,nodejs,mongodb,netlify,vercel,vite,git,github&perline=6">
 </a>
 </p>
 
