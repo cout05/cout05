@@ -1,4 +1,4 @@
-<p align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=50&duration=3000&pause=1000&random=false&width=435&lines=Hello;I'm+Jerico" alt="Typing SVG" /></a></p>
+<p align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=65F4F7&center=true&vCenter=true&random=false&width=435&lines=Hello+there%2C;I'm+Jerico+Franco" alt="Typing SVG" /></a></p>
 
 I make websites, webapps, and other cool stuff, with the goal of landing an internship role as part of my academic program.
 
