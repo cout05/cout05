@@ -1,4 +1,4 @@
-# Hello, I'm Jerico Franco. 👋
+<h1 align="center" >Hello, I'm Jerico Franco. 👋</h1>
 
 I make websites, webapps, and other cool stuff, with the goal of landing an internship role as part of my academic program.
 
