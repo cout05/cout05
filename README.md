@@ -14,15 +14,17 @@
   
 </div>
 
-## Tools I used
+
 <p align="center">
+  ## Tools I used
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,nodejs,mongodb&perline=8">
 </a>
 </p>
 
-## Projects
+
 <div align="center">
+  ## Projects
 Here are some of the projects I've worked on:
 
  [Apex-Adorn Ecommerce Store](https://github.com/cout05/apexadorn-ecommerce-website)
@@ -32,8 +34,9 @@ Here are some of the projects I've worked on:
  [Chirp - Where the Now Meets the Chirp ](https://github.com/cout05/chirp)
  
 </div>
- 
-## Contact Me
+
+ <div align="center">
+   ## Contact Me
 
 📧 Email: ecofranco1@gmail.com <br/>
 🌐 Portfolio: [My portfolio](https://francojerico.netlify.app/) <br/>
@@ -42,3 +45,5 @@ Here are some of the projects I've worked on:
 📄 CV: [Click here to view](https://sg.docworkspace.com/d/sIHr-jqKwAfDlsKwG)
 
 Feel free to reach out if you'd like to connect or collaborate on web development projects!!
+ </div>
+
