@@ -25,9 +25,9 @@
 <div align="center">
 Here are some of the projects I've worked on:
 
-1. [Apex-Adorn Ecommerce Store](https://github.com/cout05/apexadorn-ecommerce-website)
-2. [Todo App Mern Stack](https://github.com/cout05/todo-app)
-3. [Chirp - Where the Now Meets the Chirp ](https://github.com/cout05/chirp)
+ [Apex-Adorn Ecommerce Store](https://github.com/cout05/apexadorn-ecommerce-website)
+ [Todo App Mern Stack](https://github.com/cout05/todo-app)
+ [Chirp - Where the Now Meets the Chirp ](https://github.com/cout05/chirp)
 </div>
  
 ## Contact Me
