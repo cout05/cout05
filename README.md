@@ -16,7 +16,7 @@
 
 
 <p align="center">
-## Tools I used
+<h1>Tools I used</h1>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,nodejs,mongodb&perline=8">
 </a>
@@ -24,7 +24,7 @@
 
 
 <div align="center">
-## Projects
+<h1>Projects</h1>
 Here are some of the projects I've worked on:
 
  [Apex-Adorn Ecommerce Store](https://github.com/cout05/apexadorn-ecommerce-website)
@@ -36,7 +36,7 @@ Here are some of the projects I've worked on:
 </div>
 
  <div align="center">
-## Contact Me
+<h1>Contact Me</h1>
 📧 Email: ecofranco1@gmail.com <br/>
 🌐 Portfolio: [My portfolio](https://francojerico.netlify.app/) <br/>
 📱 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jerico-franco-37b75627b/) <br/>
