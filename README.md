@@ -5,9 +5,13 @@
 <br/>
 
 <div align="center">
+  
   🔭 I’m currently working on **a side project**
-  🌱 I'm currently learning how to make Full Stack Websites.<br/>
-  💼 I'm open to job opportunities and collaborations.
+  
+  🌱 I'm currently learning **how to make Full Stack Websites**
+  
+  💼 I'm open to **job opportunities and collaborations**
+  
 </div>
 
 ## Tools I used
