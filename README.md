@@ -37,11 +37,11 @@ Here are some of the projects I've worked on:
 
  <div align="center">
 <h1>Contact Me</h1>
-📧 Email: ecofranco1@gmail.com <br/>
-🌐 Portfolio: [My portfolio](https://francojerico.netlify.app/) <br/>
-📱 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jerico-franco-37b75627b/) <br/>
-⬇️ Facebook: [Facebook Profile](https://www.facebook.com/jericofranco15/) <br/>
-📄 CV: [Click here to view](https://sg.docworkspace.com/d/sIHr-jqKwAfDlsKwG)
+📧[Email me]ecofranco1@gmail.com <br/>
+🌐[My portfolio](https://francojerico.netlify.app/) <br/>
+📱[LinkedIn Profile](https://www.linkedin.com/in/jerico-franco-37b75627b/) <br/>
+⬇️[Facebook Profile](https://www.facebook.com/jericofranco15/) <br/>
+📄[Click here to view](https://sg.docworkspace.com/d/sIHr-jqKwAfDlsKwG)
 
 Feel free to reach out if you'd like to connect or collaborate on web development projects!!
  </div>
