@@ -8,7 +8,7 @@
   
   🔭 I’m currently working on **a side project**
   
-  🌱 I'm currently learning **Python🐍**
+  🌱 I'm currently learning **Python**
   
   💼 I'm open to **job opportunities and collaborations**
   
