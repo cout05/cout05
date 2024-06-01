@@ -6,9 +6,9 @@
 
 <div align="center">
   
-  🔭 I’m currently working on **a side project**
+  🔭 I’m currently working on **Online Library**
   
-  🌱 I'm currently learning **Python**
+  🌱 I'm currently learning **Next Js**
   
   💼 I'm open to **job opportunities and collaborations**
   
