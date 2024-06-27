@@ -6,10 +6,6 @@
 
 <div align="center">
   
-  🔭 I’m currently working on **Ebook website**
-  
-  🌱 I'm currently learning **Next Js**
-  
   💼 I'm open to **job opportunities and collaborations**
   
 </div>
