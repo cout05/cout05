@@ -14,7 +14,7 @@
 <div align="center">
 <h1>Tools I used</h1>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,nodejs,mongodb,php,mysql,&perline=8">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,nodejs,mongodb,php,mysql,&perline=5">
 </a>
 </div>
 
